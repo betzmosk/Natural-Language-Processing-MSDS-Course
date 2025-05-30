@@ -11,7 +11,6 @@
 
   <h2>Project Structure</h2>
   <ul>
-    <li><code>data/</code> – Movie review dataset (cleaned and labeled) for training and evaluation</li>
     <li><code>Notebooks/</code> – Jupyter notebooks used for modeling:
       <ul>
         <li><code>MSDS453_Assignment_02_TF_IDF_Classification.ipynb</code> – Logistic regression classifier using TF-IDF features</li>
